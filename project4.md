@@ -29,13 +29,16 @@ From there it asks the user to input their desired side A and then it asks for t
 after the inputs is the calculated hypotenuse and surface area for the respective right triangle. 
 
 ![screenshot](images/rightTriangle/1.png)
-Fig 1. The launch screen
+
+Fig 1. Program running with test input
 
 ![screenshot](images/rightTriangle/2.png)
-Fig 2. Example output after input is processed.
+
+Fig 2. Program running with test input
 
 ![screenshot](images/rightTriangle/3.png)
-Fig 3. Feedback when an error occurs.
+
+Fig 3. Program running with test input
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
