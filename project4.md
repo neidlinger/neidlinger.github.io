@@ -11,20 +11,22 @@ Right Triangle Calculator
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project took side A and side B of a right triangle from the user. Then, using Pythagoreans' theorem
+it calculates the hypotenuse and also calculates the surface area. 
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+Navigate to the correct directory and compile and run using this command:
 
 ```bash
-cd ./project
-python setup.py
+python rightTriangle.py
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When the program first runs it outputs the calculations based on a pre-determined side A and side B.
+From there it asks the user to input their desired side A and then it asks for their side B. Listed out
+after the inputs is the calculated hypotenuse and surface area for the respective right triangle. 
 
 ![screenshot](images/rightTriangle/1.png)
 Fig 1. The launch screen
@@ -35,9 +37,6 @@ Fig 2. Example output after input is processed.
 ![screenshot](images/rightTriangle/3.png)
 Fig 3. Feedback when an error occurs.
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
