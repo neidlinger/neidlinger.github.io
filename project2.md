@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Hang Man
+Blackjack Game and Simulater
 ===============
 
--   **Class: CSCI 235** 
+-   **Class: CSCI 325** 
 -   **Grade: A**
--   **Language(s): C++**
--   **Source Code Repository:** [neidlinger/hangMan](https://guides.github.com/neidlinger/hangMan/)  
+-   **Language(s): Java**
+-   **Source Code Repository:** [neidlinger/cardGame](https://guides.github.com/neidlinger/cardGame/)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -26,16 +26,16 @@ python setup.py
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/hangMan/1.png)
+![screenshot](images/cardGame/1.png)
 Fig 1. The launch screen
 
-![screenshot](images/hangMan/2.png)
+![screenshot](images/cardGame/2.png)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/hangMan/3.png)
+![screenshot](images/cardGame/3.png)
 Fig 3. Feedback when an error occurs.
 
-![screenshot](images/hangMan/4.png)
+![screenshot](images/cardGame/4.png)
 Fig 4. Feedback when an error occurs.
 
 ## 3. Additional Considerations

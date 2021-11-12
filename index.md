@@ -7,24 +7,24 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Hang Man | CSCI 235](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/hangMan/4.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Blackjack Game and Simulater | CSCI 325](project2)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/cardGame/5.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [HTML Parser | CSCI 315](project3)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/htmlParser/2.png)
+
+---
+### [Right Triangle Calculator | CSCI 301](project4)
+
+![Project 4 Thumbnail Name](images/rightTriangle/1.png)
 
 ---
 
