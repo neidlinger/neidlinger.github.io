@@ -31,30 +31,30 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [CSCI 301 Ethics Paper](/pdf/CSCI301Ethics.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Responsibility of the Creator](/pdf/CSCI315Ethic.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Morals in the Workplace](/pdf/CSCI332Ethics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 332** 
+-   **Grade: A**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Equifax Breach](/images/EquifaxBreachPres.mp4)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301** 
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
