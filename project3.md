@@ -11,7 +11,7 @@ HTML Parser
 
 ## Project description
 
-This program takes mutiple html files and from there parses them to check if they are balanced tag wise or not. It also tracks how many webpages you can visit from the main webpage given. It also parses the webpages linked/visted as well.
+This program takes multiple html files and from there parses them to check if they are balanced tag wise or not. It also tracks how many webpages you can visit from the main webpage given. It also parses the webpages linked/visited as well.
 
 ## How to compiles / run the program
 
@@ -24,7 +24,7 @@ gcc main.cpp
 
 ## Design
 
-This program starts by crawling through each given html page, and the pages linked inside the html pages given, and determines whether or not the tags are correctly balanced. If it comes accross a page that is not correctly balanced then it deems the entire page given as unbalanced as well. It still crawls through the rest of the program though to determine how many pages can be visted. If from the main page it vists another page that then visits another page it will go as deep as possible and count all the layers. It outputs the page being parsed, whether it is balanced or not, and how many pages can be visted. Figure 1 shows everything balanced correctly with figure 2 showing if a page is off.
+This program starts by crawling through each given html page, and the pages linked inside the html pages given, and determines whether or not the tags are correctly balanced. If it comes across a page that is not correctly balanced, then it deems the entire page given as unbalanced as well. It still crawls through the rest of the program though to determine how many pages can be visited. If from the main page it visits another page that then visits another page it will go as deep as possible and count all the layers. It outputs the page being parsed, whether it is balanced or not, and how many pages can be visited. Figure 1 shows everything balanced correctly with figure 2 showing if a page is off.
 
 ![screenshot](images/htmlParser/1.png)
 Fig 1. All parses pass
