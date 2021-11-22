@@ -22,7 +22,7 @@ Navigate to the correct directory and compile and run using this command:
 python rightTriangle.py
 ```
 
-## UI Design
+## Design
 
 When the program first runs it outputs the calculations based on a pre-determined side A and side B.
 From there it asks the user to input their desired side A and then it asks for their side B. Listed out
@@ -39,8 +39,5 @@ Fig 2. Program running with test input
 ![screenshot](images/rightTriangle/3.png)
 
 Fig 3. Program running with test input
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)

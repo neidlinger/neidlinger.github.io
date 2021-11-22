@@ -7,14 +7,14 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:lgNeidlinger@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Hang Man | CSCI 235](project1)
+### [Perl Hash Table | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/perlProject/3.png)
 
 ---
 ### [Blackjack Game and Simulater | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/cardGame/5.png)
+![Project 2 Thumbnail Name](images/cardGame/1.png)
 
 ---
 ### [HTML Parser | CSCI 315](project3)

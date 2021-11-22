@@ -5,26 +5,25 @@ Perl hash Table
 
 -   **Class: CSCI 301** 
 -   **Grade: A**
--   **Language(s): C++**
+-   **Language(s): Perl**
 -   **Source Code Repository:** [neidlinger/perlProject](https://guides.github.com/neidlinger/perlProject/)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project played the game Hang Man with the user. It started by asking the user to select a difficulty and then from there
+This was an exercise to expand and test knowledge of read/write abilities to external files in Perl as well as reading those values into a hash table. 
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+Navigate to the correct directory and compile and run using this command:
 
 ```bash
-cd ./project
-python setup.py
+./lab04.pl
 ```
 
-## UI Design
+## Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This project used a hash table in Perl to store input from a given .txt file. Then the program sorted the inputed scores and printed the results to a new .txt file. From there the program took the highest score and also calculated the average of all the scores and entered those values into a new .txt file for each. Figure 1 shows what happens when you run the program. It creates three .txt files with the the sorted list(Figure 3), highest score, and average score (Figure 2).
 
 ![screenshot](images/perlProject/1.png)
 Fig 1. Showing creation of text files.
@@ -35,11 +34,5 @@ Fig 2. Showing the input text and the sorted ouput.
 
 ![screenshot](images/perlProject/2.png)
 Fig 2. Showing the highest score and the calculated average.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
