@@ -57,9 +57,9 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Minix](/pdf/minix.pdf)
 
-- **Class:** 
+- **Class: CSCI 431** 
 - **Grade:**
 
 ---

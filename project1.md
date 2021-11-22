@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Hang Man
+Perl hash Table 
 ===============
 
--   **Class: CSCI 235** 
+-   **Class: CSCI 301** 
 -   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository:** [neidlinger/hangMan](https://guides.github.com/neidlinger/hangMan/)  
+-   **Source Code Repository:** [neidlinger/perlProject](https://guides.github.com/neidlinger/perlProject/)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project played the game Hang Man with the user. It started by asking the user to select a difficulty and then from there
 
 ## How to compiles / run the program
 
@@ -26,17 +26,15 @@ python setup.py
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/hangMan/1.png)
-Fig 1. The launch screen
+![screenshot](images/perlProject/1.png)
+Fig 1. Showing creation of text files.
 
-![screenshot](images/hangMan/2.png)
-Fig 2. Example output after input is processed.
+![screenshot](images/perlProject/3.png)
+Fig 2. Showing the input text and the sorted ouput.
 
-![screenshot](images/hangMan/3.png)
-Fig 3. Feedback when an error occurs.
 
-![screenshot](images/hangMan/4.png)
-Fig 4. Feedback when an error occurs.
+![screenshot](images/perlProject/2.png)
+Fig 2. Showing the highest score and the calculated average.
 
 ## 3. Additional Considerations
 
