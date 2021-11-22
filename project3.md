@@ -11,32 +11,26 @@ HTML Parser
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program takes mutiple html files and from there parses them to check if they are balanced tag wise or not. It also tracks how many webpages you can visit from the main webpage given. It also parses the webpages linked/visted as well.
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+Navigate to the correct directory and compile and run using these commands:
 
 ```bash
-cd ./project
-python setup.py
+gcc main.cpp 
+./a.out "along with desired html files"
 ```
 
-## UI Design
+## Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This program starts by crawling through each given html page, and the pages linked inside the html pages given, and determines whether or not the tags are correctly balanced. If it comes accross a page that is not correctly balanced then it deems the entire page given as unbalanced as well. It still crawls through the rest of the program though to determine how many pages can be visted. If from the main page it vists another page that then visits another page it will go as deep as possible and count all the layers. It outputs the page being parsed, whether it is balanced or not, and how many pages can be visted. Figure 1 shows everything balanced correctly with figure 2 showing if a page is off.
 
 ![screenshot](images/htmlParser/1.png)
-Fig 1. The launch screen
+Fig 1. All parses pass
 
 ![screenshot](images/htmlParser/2.png)
-Fig 2. Example output after input is processed.
+Fig 2. One of the parses fail
 
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
