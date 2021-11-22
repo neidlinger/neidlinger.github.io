@@ -19,7 +19,7 @@ Navigate to the correct directory and compile and run using these commands:
 
 ```bash
 gcc main.cpp 
-./a.out "along with desired html files"
+./a.out *along with desired HTML files*
 ```
 
 ## Design
