@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Hang Man | CSCI 235](project1)
 
-![Project 1 Thumbnail Name](images/hangMan/4.png)
+![Project 1 Thumbnail Name](images/perlProject/3.png)
 
 ---
 ### [Blackjack Game and Simulater | CSCI 325](project2)
