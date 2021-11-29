@@ -18,7 +18,7 @@ This program takes multiple html files and from there parses them to check if th
 Navigate to the correct directory and compile and run using these commands:
 
 ```bash
-gcc main.cpp 
+gcc src/main.cpp 
 ./a.out *along with desired HTML files*
 ```
 
