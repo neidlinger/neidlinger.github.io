@@ -11,19 +11,20 @@ Large Fibonacci Calculator
 
 ## Project description
 
-This program takes in a number between 1-100,000 and calulates the fibonacci number at that position while also clocking how long it took. This program is able to calulate such high values as it is summing  each position as you would by hand.
+This program takes in a number between 1-100,000 and calculates the Fibonacci number at that position while also clocking how long it took. This program is able to calculate such high values as it is summing each position as you would by hand.
 
 ## How to compiles / run the program
 
 Navigate to the correct directory and compile and run using this command:
 
 ```bash
+g++ fibonacci.cpp -o fib
 ./fib
 ```
 
 ## Design
 
-This project asks the user for a number between 1 and 100,000 and from there it calculates the fibonacci number at that position along with how long it took to calculate. The program is able to add such large numbers because it adds the two numbers as you would on a sheet of paper. It goes place by place and adds the two numbers, if there is a remainder then that gets added to the next position. With this there is no boundry to number size, just computing limitations. Though, with enough time it can calculate any value given within range. Figure 4 shows the output of 75,000 being given. While it would take many screenshots to include the whole answer the time shows just how taxing the large addition can be. 
+This project asks the user for a number between 1 and 100,000 and from there it calculates the Fibonacci number at that position along with how long it took to calculate. The program is able to add such large numbers because it adds the two numbers as you would on a sheet of paper. It goes place by place and adds the two numbers, if there is a remainder then that gets added to the next position. With this there is no boundary to number size, just computing limitations. Though, with enough time it can calculate any value given within range. Figure 4 shows the output of 75,000 being given. While it would take many screenshots to include the whole answer the time shows just how taxing the large addition can be. 
 
 ![screenshot](images/fibonacci/1.png)
 Fig 1. showing initial ask of user.
