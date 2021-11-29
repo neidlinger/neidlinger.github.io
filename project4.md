@@ -6,7 +6,7 @@ Right Triangle Calculator
 -   **Class: CSCI 301** 
 -   **Grade: A**
 -   **Language(s): Python**
--   **Source Code Repository:** [neidlinger/rightTriangle](https://guides.github.com/neidlinger/rightTriangle/)  
+-   **Source Code Repository:** [neidlinger/rightTriangle](https://github.com/neidlinger/rightTriangle/tree/SPR)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

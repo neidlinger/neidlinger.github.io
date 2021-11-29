@@ -6,7 +6,7 @@ HTML Parser
 -   **Class: CSCI 315** 
 -   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository:** [neidlinger/htmlParser](https://guides.github.com/neidlinger/htmlParser/)  
+-   **Source Code Repository:** [neidlinger/htmlParser](https://github.com/neidlinger/htmlParser/tree/SPR)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

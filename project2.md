@@ -6,7 +6,7 @@ Blackjack Game and Simulater
 -   **Class: CSCI 325** 
 -   **Grade: A**
 -   **Language(s): Java**
--   **Source Code Repository:** [neidlinger/cardGame](https://guides.github.com/neidlinger/cardGame/)  
+-   **Source Code Repository:** [neidlinger/cardGame](https://github.com/neidlinger/cardGame/tree/SPR)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

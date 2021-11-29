@@ -6,7 +6,7 @@ Large Fibonacci Calculator
 -   **Class: CSCI 415** 
 -   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository:** [neidlinger/fibonacci](https://guides.github.com/neidlinger/fibonacci/)  
+-   **Source Code Repository:** [neidlinger/fibonacci](https://github.com/neidlinger/fibonacci/tree/SPR)  
     (Please [email me](mailto:lgneidlinger@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
