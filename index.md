@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:lgNeidlinger@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Perl Hash Table | CSCI 301](project1)
+### [Large Fibonacci Calculator | CSCI 415](project1)
 
-![Project 1 Thumbnail Name](images/perlProject/3.png)
+![Project 1 Thumbnail Name](images/fibonacci/3.png)
 
 ---
 ### [Blackjack Game and Simulater | CSCI 325](project2)
